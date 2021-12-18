@@ -1,0 +1,102 @@
+iso-639-3	name	value	description	latitude	longitude	family
+agr	Aguaruna	A	posser-possedN	-5.30044	-77.92179	Chicham
+apu	Apurinã	A	posser-possedN	-8.21692	-66.77141	Arawakan
+arl	Arabela	A	posser-possedN	-1.96126	-75.06117	Zaparoan
+arh	Arhuaco	A	posser-possedN	10.70184	-73.63629	Chibchan
+kwi	Awa-Cuaiquer	A	posser-possedN	1.216525	-78.340135	Barbacoan
+quy	Ayacucho Quechua	A	posser-possedN	-13.84714	-74.32246	Quechuan
+ayo	Ayoreo	A	posser-possedN	-19.220055	-60.217495	Zamucoan
+brg	Baure	B	possedN-posser	-13.12775	-64.18381	Arawakan
+boa	Bora	A	posser-possedN	-2.91467	-68.90929	Boran
+bor	Bororo	A	posser-possedN	-16.60295	-55.20043	Bororoan
+qvc	Cajamarca Quechua	A	posser-possedN	-7.09314	-78.32141	Quechuan
+caw	Callawalla	A	posser-possedN	-15.88451	-68.10176	Mixed Language
+ram	Canela	A	posser-possedN	-6.10712	-45.1299	Nuclear-Macro-Je
+cav	Cavineña	A	posser-possedN	-13.35441	-66.62773	Pano-Tacanan
+ayr	Central Aymara	A	posser-possedN	-17.0	-68.5	Aymaran
+ceg	Chamacoco	A	posser-possedN	-20.58988	-58.20047	Zamucoan
+cap	Chipaya	A	posser-possedN	-18.73951	-67.89633	Uru-Chipaya
+cht	Cholón	A	posser-possedN	-9.23129	-75.96211	Hibito-Cholon
+cod	Cocama-Cocamilla	A	posser-possedN	-4.5	-74.0	Tupian
+con	Cofán	A	posser-possedN	0.276675	-77.064305	Cofan
+cub	Cubeo	A	posser-possedN	1.32382	-70.193935	Tucanoan
+quz	Cusco Quechua	A	posser-possedN	-14.08527	-71.76625	Quechuan
+des	Desano	A	posser-possedN	0.58157	-69.495545	Tucanoan
+kwa	Dâw	D	both but for specific constructions	-0.1177	-67.29341	Nadahup
+eme	Emerillon	A	posser-possedN	3.23694	-52.36986	Tupian
+ese	Ese Ejja	A	posser-possedN	-11.72683	-67.51496	Pano-Tacanan
+gvo	Gavião Do Jiparaná	A	posser-possedN	-10.7235	-61.67521	Tupian
+hix	Hixkaryána	A	posser-possedN	-0.16265	-58.80153	Cariban
+qub	Huallaga Huánuco Quechua	A	posser-possedN	-9.57135	-75.59401	Quechuan
+qux	Huangascar-Topara-Yauyos Quechua	A	posser-possedN	-13.11443	-75.76589	Quechuan
+qwh	Huaylas Ancash Quechua	A	posser-possedN	-9.38709	-77.77681	Quechuan
+jup	Hupdë	A	posser-possedN	0.58622	-69.835915	Nadahup
+qvi	Imbabura Highland Quichua	A	posser-possedN	0.31776	-78.37286	Quechuan
+inb	Inga	A	posser-possedN	1.00313	-76.86062	Quechuan
+iqu	Iquito	D	both but for specific constructions	-3.31233	-73.97046	Zaparoan
+ito	Itonama	B	possedN-posser	-12.80431	-64.35748	Itonama
+jaa	Jamamadí	A	posser-possedN	-7.62223	-66.56619	Arawan
+jqr	Jaqaru	A	posser-possedN	-12.88233	-75.89576	Aymaran
+qxw	Jauja Wanca Quechua	A	posser-possedN	-11.67473	-75.2786	Quechuan
+kbc	Kadiwéu	C	both orders with neither order dominant	-19.72224	-57.58202	Guaicuruan
+kay	Kamayurá	A	posser-possedN	-12.26606	-53.46514	Tupian
+kxo	Kanoê	A	posser-possedN	-12.17894	-64.58121	Kanoe
+ktn	Karitiâna	A	posser-possedN	-9.37937	-64.15219	Tupian
+arr	Karo (Brazil)	A	posser-possedN	-10.33424	-61.56908	Tupian
+xwa	Kwaza	A	posser-possedN	-11.6666666667	-61.1833333333	Kwaza
+lkd	Lakondê	A	posser-possedN	-13.2	-60.5	Nambiquaran
+lao	Lao	B	possedN-posser	16.07262	104.56848	Tai-Kadai
+lec	Leco	A	posser-possedN	-15.00921	-67.88181	Leko
+mca	Maca	A	posser-possedN	-25.01186	-57.36935	Matacoan
+wmd	Mamaindé	A	posser-possedN	-12.986439	-60.101072	Nambiquaran
+arn	Mapudungun	A	posser-possedN	-38.73917	-71.27701	Araucanian
+mcf	Matsés	A	posser-possedN	-5.739145	-72.628105	Pano-Tacanan
+omc	Mochica	A	posser-possedN	-8.01666666667	-79.0	Mochica
+moc	Mocoví	C	both orders with neither order dominant	-28.09699	-60.41448	Guaicuruan
+cas	Mosetén	C	both orders with neither order dominant	-14.64448	-67.83756	Moseten-Chimane
+mzp	Movima	B	possedN-posser	-13.81152	-65.63482	Movima
+myr	Muniche	A	posser-possedN	-5.80546	-76.28113	Muniche
+yrl	Nhengatu	A	posser-possedN	1.04502666667	-66.9645533333	Tupian
+shb	Ninam	A	posser-possedN	4.038935	-62.780115	Yanomamic
+qvn	North Junín Quechua	A	posser-possedN	-11.21321	-75.81275	Quechuan
+emp	Northern Emberá	A	posser-possedN	7.12761	-77.57396	Chocoan
+qvp	Pacaraos Quechua	A	posser-possedN	-11.14278	-76.73046	Quechuan
+pbh	Panare	A	posser-possedN	6.95035	-65.84825	Cariban
+pap	Papiamento	B	possedN-posser	12.48485	-69.93988	Indo-European
+plg	Pilagá	B	possedN-posser	-25.00585	-60.15372	Guaicuruan
+pue	Puelche	B	possedN-posser	-36.63757	-62.94127	Puelche
+pui	Puinave	A	posser-possedN	3.92974	-67.6886	Puinave
+pbb	Páez	A	posser-possedN	2.61516	-76.31254	Paez
+rey	Reyesano	A	posser-possedN	-14.83332	-67.08332	Pano-Tacanan
+rus	Russian	D	both but for specific constructions	59.0	50.0	Indo-European
+sae	Sabanê	A	posser-possedN	-12.98572	-60.33498	Nambiquaran
+skf	Sakirabia	A	posser-possedN	-13.05395	-62.09274	Tupian
+qxl	Salasaca Highland Quichua	A	posser-possedN	-1.35447	-78.39531	Quechuan
+qvs	San Martín Quechua	A	posser-possedN	-6.9582	-76.6608	Quechuan
+qus	Santiago del Estero Quichua	A	posser-possedN	-27.82096	-63.24657	Quechuan
+ona	Selk'nam	A	posser-possedN	-54.0	-68.5	Chonan
+shp	Shipibo-Conibo	A	posser-possedN	-7.17105	-74.82192	Pano-Tacanan
+jiv	Shuar	A	posser-possedN	-3.45136	-78.18923	Chicham
+snn	Siona-Tetete	A	posser-possedN	0.31733	-76.02367	Tucanoan
+quh	South Bolivian Quechua	A	posser-possedN	-20.920095	-66.333145	Quechuan
+ayc	Southern Aymara	A	posser-possedN	-17.14171	-70.34424	Aymaran
+qup	Southern Pastaza Quechua	A	posser-possedN	-3.32733	-76.52697	Quechuan
+spa	Spanish	B	possedN-posser	40.4414175	-1.11788	Indo-European
+tpj	Tapieté	A	posser-possedN	-21.4168866667	-62.68397	Tupian
+tae	Tariana	A	posser-possedN	0.440205	-68.904165	Arawakan
+teh	Tehuelche	A	posser-possedN	-47.57963	-68.32346	Chonan
+quw	Tena Lowland Quichua	A	posser-possedN	-0.76271	-77.54039	Quechuan
+tob	Toba	B	possedN-posser	-24.40253	-60.4472866667	Guaicuruan
+tri	Trió	A	posser-possedN	2.53616	-55.759935	Cariban
+tpy	Trumai	A	posser-possedN	-11.81195	-53.5717	Trumai
+cof	Tsafiki	A	posser-possedN	-0.21181	-79.23468	Barbacoan
+tur	Turkish	A	posser-possedN	39.866667	32.866667	Turkic
+ura	Urarina	A	posser-possedN	-4.44006	-75.42107	Urarina
+ure	Uru	A	posser-possedN	-16.72547	-68.97119	Uru-Chipaya
+wba	Warao	A	posser-possedN	7.50850666667	-59.3527633333	Warao
+pav	Wari	B	possedN-posser	-10.69948	-64.56152	Chapacuran
+mtp	Wichí Lhamtés Nocten	A	posser-possedN	-21.987995	-63.59711	Matacoan
+yaa	Yaminahua	A	posser-possedN	-9.88459666667	-71.5964333333	Pano-Tacanan
+ame	Yanesha'	A	posser-possedN	-10.54539	-75.31497	Arawakan
+yuq	Yuqui	A	posser-possedN	-16.78752	-64.94382	Tupian
+yuz	Yuracaré	A	posser-possedN	-16.74788	-65.12241	Yurakare

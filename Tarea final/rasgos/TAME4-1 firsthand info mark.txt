@@ -1,0 +1,65 @@
+iso-639-3	name	value	description	latitude	longitude	family
+agr	Aguaruna	N	no	-5.30044	-77.92179	Chicham
+apu	Apurinã	N	no	-8.21692	-66.77141	Arawakan
+arh	Arhuaco	AFF	affix	10.70184	-73.63629	Chibchan
+kwi	Awa-Cuaiquer	N	no	1.216525	-78.340135	Barbacoan
+brg	Baure	N	no	-13.12775	-64.18381	Arawakan
+boa	Bora	N	no	-2.91467	-68.90929	Boran
+bor	Bororo	N	no	-16.60295	-55.20043	Bororoan
+ram	Canela	N	no	-6.10712	-45.1299	Nuclear-Macro-Je
+cav	Cavineña	N	no	-13.35441	-66.62773	Pano-Tacanan
+ayr	Central Aymara	AFF	affix	-17.0	-68.5	Aymaran
+cbg	Chimila	N	no	10.19016	-74.25585	Chibchan
+cod	Cocama-Cocamilla	N	no	-4.5	-74.0	Tupian
+cub	Cubeo	AFF	affix	1.32382	-70.193935	Tucanoan
+quz	Cusco Quechua	AFF	affix	-14.08527	-71.76625	Quechuan
+des	Desano	AFF	affix	0.58157	-69.495545	Tucanoan
+kwa	Dâw	N	no	-0.1177	-67.29341	Nadahup
+eme	Emerillon	AFF	affix	3.23694	-52.36986	Tupian
+hix	Hixkaryána	N	no	-0.16265	-58.80153	Cariban
+qub	Huallaga Huánuco Quechua	AFF	affix	-9.57135	-75.59401	Quechuan
+jup	Hupdë	CLI	clitic	0.58622	-69.835915	Nadahup
+qvi	Imbabura Highland Quichua	AFF	affix	0.31776	-78.37286	Quechuan
+ito	Itonama	N	no	-12.80431	-64.35748	Itonama
+jaa	Jamamadí	AFF	affix	-7.62223	-66.56619	Arawan
+kgp	Kaingang	N	no	-27.76708	-52.53937	Nuclear-Macro-Je
+kay	Kamayurá	N	no	-12.26606	-53.46514	Tupian
+kxo	Kanoê	N	no	-12.17894	-64.58121	Kanoe
+ktn	Karitiâna	N	no	-9.37937	-64.15219	Tupian
+arr	Karo (Brazil)	N	no	-10.33424	-61.56908	Tupian
+xwa	Kwaza	N	no	-11.6666666667	-61.1833333333	Kwaza
+lec	Leco	N	no	-15.00921	-67.88181	Leko
+wmd	Mamaindé	N	no	-12.986439	-60.101072	Nambiquaran
+arn	Mapudungun	N	no	-38.73917	-71.27701	Araucanian
+mcf	Matsés	AFF	affix	-5.739145	-72.628105	Pano-Tacanan
+moc	Mocoví	N	no	-28.09699	-60.41448	Guaicuruan
+cas	Mosetén	PAR	particle	-14.64448	-67.83756	Moseten-Chimane
+mzp	Movima	N	no	-13.81152	-65.63482	Movima
+myr	Muniche	N	no	-5.80546	-76.28113	Muniche
+yrl	Nhengatu	N	no	1.04502666667	-66.9645533333	Tupian
+shb	Ninam	PAR	particle	4.038935	-62.780115	Yanomamic
+emp	Northern Emberá	N	no	7.12761	-77.57396	Chocoan
+pbh	Panare	?	unknown	6.95035	-65.84825	Cariban
+pab	Parecís	N	no	-14.59295	-57.40595	Arawakan
+plg	Pilagá	N	no	-25.00585	-60.15372	Guaicuruan
+pui	Puinave	N	no	3.92974	-67.6886	Puinave
+pbb	Páez	N	no	2.61516	-76.31254	Paez
+rkb	Rikbaktsa	N	no	-11.18865	-58.19424	Nuclear-Macro-Je
+sae	Sabanê	AFF	affix	-12.98572	-60.33498	Nambiquaran
+skf	Sakirabia	N	no	-13.05395	-62.09274	Tupian
+mav	Sateré-Mawé	N	no	-3.63897	-56.87489	Tupian
+shp	Shipibo-Conibo	CLI	clitic	-7.17105	-74.82192	Pano-Tacanan
+jiv	Shuar	AFF	affix	-3.45136	-78.18923	Chicham
+tpj	Tapieté	CLI	clitic	-21.4168866667	-62.68397	Tupian
+tae	Tariana	N	no	0.440205	-68.904165	Arawakan
+teh	Tehuelche	?	unknown	-47.57963	-68.32346	Chonan
+tri	Trió	N	no	2.53616	-55.759935	Cariban
+tpy	Trumai	N	no	-11.81195	-53.5717	Trumai
+cof	Tsafiki	N	no	-0.21181	-79.23468	Barbacoan
+ura	Urarina	CLI	clitic	-4.44006	-75.42107	Urarina
+wba	Warao	N	no	7.50850666667	-59.3527633333	Warao
+pav	Wari	N	no	-10.69948	-64.56152	Chapacuran
+mtp	Wichí Lhamtés Nocten	N	no	-21.987995	-63.59711	Matacoan
+yaa	Yaminahua	N	no	-9.88459666667	-71.5964333333	Pano-Tacanan
+ame	Yanesha'	N	no	-10.54539	-75.31497	Arawakan
+yuz	Yuracaré	N	no	-16.74788	-65.12241	Yurakare
